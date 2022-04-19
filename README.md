@@ -1,2 +1,2 @@
 # Argon-Assault
-Unity project of a prototype of a Rail Shooter game made for learning purposes
+This is a Unity project of a prototype of a Rail Shooter game made for learning purposes
